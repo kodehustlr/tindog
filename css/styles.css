@@ -230,8 +230,8 @@ hr {
 
 /* ========== FOOTER ========== */
 footer {
-  background-color: var(--white);
-  color: rgba(0,0,0,.75);
+  background-color: #343a40;
+  color: rgba(255,255,255,.8);
   padding: .25rem 0;
 }
 
