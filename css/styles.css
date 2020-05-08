@@ -230,8 +230,10 @@ hr {
 
 /* ========== FOOTER ========== */
 footer {
-  background-color: #343a40;
-  color: rgba(255,255,255,.8);
+/*   background-color: #343a40;
+  color: rgba(255,255,255,.8); */
+  background-color: #e0e0e0;
+  color: rgba(0, 0, 0, 0.8);
   padding: .25rem 0;
 }
 
@@ -242,10 +244,11 @@ footer p {
 }
 
 footer a {
-  color: #77b9ff;
+/* color: #77b9ff; */
 }
 footer a:hover {
-  color: #2f94ff;
+/* color: #2f94ff; */
+  color: #006bdf;
   text-decoration: none;
 }
 
