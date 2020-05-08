@@ -460,6 +460,10 @@ footer p {
 }
 
 @media (max-width: 575px) {
+  p, li {
+  font-size: 16px;
+  }
+
   #title {
     padding: 1rem 0 3rem;
   }
@@ -480,14 +484,15 @@ footer p {
     padding: 3rem 0;
   }
   .feature-header {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 
   #testimonials {
     padding: 3rem 0 2rem;
   }
   .testimonial-text {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.35;
     padding: 0 1rem;
   }
   .user {
