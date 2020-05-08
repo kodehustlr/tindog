@@ -531,4 +531,7 @@ footer p {
   .price {
     font-size: 1.875rem;
   }
+  footer p {
+    font-size: 14px;
+  }
 }
