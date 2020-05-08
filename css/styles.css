@@ -241,6 +241,14 @@ footer p {
   margin-bottom: 0;
 }
 
+footer a {
+  color: #77b9ff;
+}
+footer a:hover {
+  color: #4fa4ff;
+  text-decoration: none;
+}
+
 /* ========== BUTTONS ========== */
 /* Tindog Primary */
 .btn-tindog-primary {
