@@ -461,7 +461,7 @@ footer p {
 
 @media screen and (max-width: 575px) {
   p, li {
-  font-size: 15px;
+  font-size: 16px;
   }
 
   #title {
