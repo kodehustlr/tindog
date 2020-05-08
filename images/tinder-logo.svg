@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294.658" height="344.759" viewBox="0 0 294.658 344.759">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.846" y1="0.19" x2="0.162" y2="0.902" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fc297a"/>
+      <stop offset="1" stop-color="#fe7653"/>
+    </linearGradient>
+  </defs>
+  <path id="tinder-logo" d="M432.452,536.68s-12.821-14.556-15.687-52.869c-.958-2.9-4.193-1.531-4.193-1.531S335.529,529.558,345.94,613.8s70.737,131.631,158.945,128.27,136.588-91.137,134.692-145.893c-1.68-52.925-22.122-140.544-134.692-198.538-3.491-.961-2.994,2.684-2.994,2.684s21.872,105.2-67.769,136.361A3.441,3.441,0,0,1,432.452,536.68Z" transform="translate(-344.972 -397.474)" fill="url(#linear-gradient)"/>
+</svg>

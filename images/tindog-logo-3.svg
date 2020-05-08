@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.056" y1="0.499" x2="0.937" y2="0.509" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe7653"/>
+      <stop offset="1" stop-color="#fc297a"/>
+    </linearGradient>
+  </defs>
+  <g id="tindog-logo-3" transform="translate(-1264.5 -32.5)">
+    <circle id="bg" cx="59.5" cy="59.5" r="59.5" transform="translate(1265 33)" fill="#fff" stroke="#dcdcdc" stroke-width="1"/>
+    <path id="tindog-logo" d="M92,50a13.874,13.874,0,0,0,5.2-13.8A14.025,14.025,0,0,0,69.7,36,2.773,2.773,0,0,1,67,38.2H33A2.773,2.773,0,0,1,30.3,36a14.025,14.025,0,0,0-27.5.2A13.874,13.874,0,0,0,8,50,13.874,13.874,0,0,0,2.8,63.8a14.025,14.025,0,0,0,27.5.2A2.773,2.773,0,0,1,33,61.8H67A2.773,2.773,0,0,1,69.7,64,14.031,14.031,0,1,0,92,50Z" transform="translate(1254.289 92.158) rotate(-45)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
